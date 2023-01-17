@@ -1,0 +1,36 @@
+canvas{
+    border: 20px solid white;
+    border-radius: 10px;
+}
+
+body {
+    background-size: cover;
+}
+
+.color {
+    width: 100%;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.note {
+    font-size: 15px;
+}
+
+.div_speed {
+    float: left;
+}
+
+.div_speed_img {
+    width: 250px;
+    border-radius: 120px;
+}
+
+.div_volume {
+    float: right;
+}
+
+.div_volume_img {
+    width: 250px;
+    border-radius: 120px;
+}
